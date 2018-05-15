@@ -33,7 +33,7 @@ function div(n, k) {
 		alert("incorrect input")
 
 	} else {
-		console.log(n/k));
+		console.log(n/k);
 	}
 }
 
